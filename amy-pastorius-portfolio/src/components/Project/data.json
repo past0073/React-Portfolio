@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Cup of Sugar",
+        "image": "https://user-images.githubusercontent.com/74335621/113530687-3e699900-958c-11eb-8a3e-e894a2e2eb92.png",
+        "alt": "Cup of Sugar app screenshot",
+        "discription": "Connecting good neighbors wherever they may be.",
+        "liveURL": "https://cup-of-sugar-application.herokuapp.com/",
+        "repo": "https://github.com/past0073/Cup-of-Sugar"
+    },
+    {
+        "name": "Toony Moods",
+        "image": "https://user-images.githubusercontent.com/74335621/106691174-aace1900-6598-11eb-99b4-f45d4f942d7c.png",
+        "alt": "ToonyMoodz app screenshot",
+        "discription": "An app that provides current forecast data along with a song to suit the mood of the day.",
+        "liveURL": "https://frank-merk.github.io/Team-Fresh-Prince-ToonyMoodz-App/",
+        "repo": "https://github.com/past0073/Team-Fresh-Prince-ToonyMoodz-App"
+    },
+    {
+        "name": "Password Generator",
+        "image": "https://user-images.githubusercontent.com/74335621/103494160-fefba700-4dfa-11eb-9b44-76773d8393d1.png",
+        "alt": "Password generator app screenshot",
+        "discription": "An app that takes in your password parameters and gives you a secure, random password.",
+        "liveURL": "https://past0073.github.io/Random-Password-Generator/",
+        "repo": "https://github.com/past0073/Random-Password-Generator"
+    },
+    {
+        "name": "Work Day Scheduler",
+        "image": "https://user-images.githubusercontent.com/74335621/105444421-6c00a080-5c33-11eb-9b88-5fbfaeb3b159.png",
+        "alt": "Work day scheduler app screenshot",
+        "discription": "An app that helps you visualize your work day by the hour with the ability to save and retreive notes throughout the day.",
+        "liveURL": "https://past0073.github.io/Work-Day-Scheduler/",
+        "repo": "https://github.com/past0073/Work-Day-Scheduler"
+    },
+    {
+        "name": "Fitness Tracker",
+        "image": "https://user-images.githubusercontent.com/74335621/115117512-8f9e6300-9f64-11eb-81e9-4dc49b3c86e2.png",
+        "alt": "Fitness tracker app screenshot",
+        "discription": "An app that helps you visualize and track your daily workout routine.",
+        "liveURL": "https://amys-fitness-tracker.herokuapp.com/",
+        "repo": "https://github.com/past0073/Fitness-Tracker" 
+    },
+    {
+        "name": "Budget Tracker",
+        "image": "https://user-images.githubusercontent.com/74335621/115974033-6612a800-a51f-11eb-8acb-36c7ff5f7682.png",
+        "alt": "Budget tracker app screenshot",
+        "discription": "A budgeting app that helps you manage your funds with our without internet connection.",
+        "liveURL": "https://budget-trapper-keeper.herokuapp.com/",
+        "repo": "https://github.com/past0073/Budget-Tracker" 
+    }
+]
