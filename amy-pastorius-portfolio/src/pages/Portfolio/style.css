@@ -1,0 +1,16 @@
+.text-center {
+    float: left; 
+    margin-right: 10px;
+    margin-top: 10px;
+    height: 400px;
+    width: auto;
+  }
+  
+  .card-img-top {
+    height: 150px;
+  }
+  
+  .img-thumbnail {
+    height: 100%;
+    width: 100%;
+  }
