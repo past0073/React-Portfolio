@@ -2,6 +2,9 @@ import React from "react";
 import Headshot from "../../assets/images/headshot.jpg";
 import Reeds from "../../assets/images/reeds.JPG";
 import Resume from "../../assets/resume.pdf";
+import Download from "../../assets/images/download.png";
+import Github from "../../assets/images/github.png";
+import Linkedin from "../../assets/images/linkedin.png";
 import "./style.css";
 
 function About () {
@@ -21,9 +24,9 @@ function About () {
                     It was actually this desire to seek out inefficiencies and create positive improvements that brought me to my interest in web development. It's exciting to me to find a problem or opportunity for improvement and implement a system that addresses that problem, which in my opinion, is the heart and soul of web development. I also enjoy the collaborative process that comes with communal brainstorming and finding creative solutions to problems.
                 </p>
                 <hr />
-                <a  href="https://www.linkedin.com/in/amy-pastorius-609324157/" target="_blank"><i id="linkedIn" class="fab fa-linkedin" aria-hidden="true"></i></a>
-                <a  href="https://github.com/past0073" target="_blank"><i id="github" class="fab fa-github-square" aria-hidden="true"></i></a>
-                <a href={Resume} target="_blank" id="resume" download><i class="fas fa-file-download"></i> Resume</a>
+                <a href="https://www.linkedin.com/in/amy-pastorius-609324157/" target="_blank"><img id="icon" src={Linkedin} class="fab fa-linkedin" aria-hidden="true"></img></a>
+                <a href="https://github.com/past0073" target="_blank"><img id="icon" src={Github} class="fab fa-github-square" aria-hidden="true"></img></a>
+                <a href={Resume} target="_blank"  download><img id="icon" src={Download} class="fas fa-file-download"></img></a>
                 </div>
             </div>
             </section>
