@@ -1,0 +1,15 @@
+#project {
+    width: 16rem;
+}
+
+#liveURL {
+    position: absolute;
+    bottom: 50px;
+    left: 74px;
+}
+
+#repo {
+    position: absolute;
+    bottom: 10px;
+    left: 65px;
+}
