@@ -10,7 +10,7 @@ import "./style.css";
 function About () {
     return (
             <div>
-                <div className="bg" src={Reeds}>
+                <div className="bg" style={{ backgroundImage: `url(${Reeds})` }}>
             <section className="container" style={{padding: 50}}>
             <div className="card w-75">
                 <div className="card-body">
