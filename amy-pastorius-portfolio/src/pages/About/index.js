@@ -1,6 +1,7 @@
 import React from "react";
 import Headshot from "../../assets/images/headshot.jpg";
 import Reeds from "../../assets/images/reeds.JPG";
+import Resume from "../../assets/resume.pdf";
 import "./style.css";
 
 function About () {
@@ -22,7 +23,7 @@ function About () {
                 <hr />
                 <a  href="https://www.linkedin.com/in/amy-pastorius-609324157/" target="_blank"><i id="linkedIn" class="fab fa-linkedin" aria-hidden="true"></i></a>
                 <a  href="https://github.com/past0073" target="_blank"><i id="github" class="fab fa-github-square" aria-hidden="true"></i></a>
-                <a href="Assets/resume.pdf" target="_blank" id="resume" download><i class="fas fa-file-download"></i> Resume</a>
+                <a href={Resume} target="_blank" id="resume" download><i class="fas fa-file-download"></i> Resume</a>
                 </div>
             </div>
             </section>
