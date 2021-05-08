@@ -1,0 +1,14 @@
+.bg {
+    height: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 950px
+  }
+
+  #AmyP {
+    height: 230px;
+    box-shadow: 10px 10px 5px grey;
+    margin: 5px 30px 10px 10px;
+  }
