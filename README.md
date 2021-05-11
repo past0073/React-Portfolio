@@ -8,4 +8,4 @@ Website deployed at: https://past0073.github.io/React-Portfolio/
 
 ## Contact
 
-Happy to connect via email at past0073@umn.edu, [Github](github.com/past0073), or [LinkedIn](https://www.linkedin.com/in/amy-pastorius-609324157/).
+I would be happy to connect via email at past0073@umn.edu, [Github](github.com/past0073), or [LinkedIn](https://www.linkedin.com/in/amy-pastorius-609324157/). Please feel free to reach out!
