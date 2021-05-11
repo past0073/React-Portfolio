@@ -20,7 +20,7 @@ class Portfolio extends Component {
                   <h1 className="card-title">Portfolio</h1>
                     <hr />
                         {this.state.projectData.map(project => (
-                          <div  key={project.id}>
+                          <div key={project.id}>
                             <Project
                             id={project.id}
                             name={project.name}
