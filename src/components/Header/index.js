@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom"
 
 function Header () {
     return (
@@ -12,13 +13,13 @@ function Header () {
           <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link" href="/contact">Contact</a>
+              <Link className="nav-link" to="/contact">Contact</Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/portfolio">Portfolio</a>
+              <Link className="nav-link"  to="/portfolio">Portfolio</Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="/about">About</a>
+              <Link className="nav-link" to="/about">About</Link>
               </li>
             </ul>
           </div>
